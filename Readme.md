@@ -14,6 +14,6 @@ also i started using Git.
 
 # **_Author_**
 
-- Website - [Add your name here](https://www.your-site.com)
+
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@mouhibeddine)
 - Instagram - [@yourusername](https://instagram.com/itzzedd_?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
